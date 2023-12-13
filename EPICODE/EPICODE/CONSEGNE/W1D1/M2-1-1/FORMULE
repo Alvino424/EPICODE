@@ -10,3 +10,4 @@ FORMULE TRATTATE :
 =giorno
 =oggi
 =GIORNI.LAVORATIVI.TOT(A7;F4)
+=CONTA.PIÙ.SE(abitanti;">=10";abitanti;"<100")
